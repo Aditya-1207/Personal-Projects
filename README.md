@@ -1,2 +1,2 @@
 # Personal-Projects
-First git repo
+Repor for personal projects
