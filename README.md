@@ -1,2 +1,2 @@
 # Personal-Projects
-Repor for personal projects
+Repo for personal projects
